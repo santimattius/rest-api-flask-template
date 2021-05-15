@@ -1,5 +1,5 @@
 # Template: API Rest using Flask
-[![codecov](https://codecov.io/gh/santimattius/rest-api-flask-template/branch/master/graph/badge.svg?token=EYOEGUT2O3)](https://codecov.io/gh/santimattius/rest-api-flask-template) [![travis](https://travis-ci.com/santimattius/rest-api-flask-template.svg?token=P7xvicFZMo2reEHHNuJS&branch=master)](https://travis-ci.com/santimattius/rest-api-flask-template) 
+[![codecov](https://codecov.io/gh/santimattius/rest-api-flask-template/branch/master/graph/badge.svg?token=R4T1BF8Ki2)](https://codecov.io/gh/santimattius/rest-api-flask-template) [![travis](https://travis-ci.com/santimattius/rest-api-flask-template.svg?token=P7xvicFZMo2reEHHNuJS&branch=master)](https://travis-ci.com/santimattius/rest-api-flask-template) 
 
 
 ### Run using Makefile
