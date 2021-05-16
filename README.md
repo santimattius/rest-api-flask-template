@@ -11,6 +11,9 @@
 ### Freeze pip installs
 - pip3 freeze > requirements.txt
 
+### Swagger
+- http://127.0.0.1:5000/
+
 ### Setup CI
 - TravisCI:
   - https://docs.travis-ci.com/
